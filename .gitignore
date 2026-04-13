@@ -20,8 +20,5 @@ coverage.xml
 local_settings.py
 db.sqlite3
 media/
-# vector_store/
-# chroma.sqlite3
-# Data/*.pdf
 .DS_Store
 
