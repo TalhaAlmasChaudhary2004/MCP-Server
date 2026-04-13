@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "document-qa-mcp-server": {
+            "command": "C:/Users/talha/OneDrive/Desktop/mcpserverassignment/venv13/Scripts/python.exe",
+            "args": [
+                "C:/Users/talha/OneDrive/Desktop/mcpserverassignment/mcpserver.py"
+            ],
+            "env": {}
+        }
+    }
+}
